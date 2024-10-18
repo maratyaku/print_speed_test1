@@ -23,3 +23,4 @@ symbols_per_minute = len(user_input) / elapsed_time * 60
 
 print(f"Ваша скорость печати: {symbols_per_minute} символов в минуту.")
 print(f"Время, затраченное на печать: {elapsed_time} секунд.")
+print("Спасибо за участие!")
